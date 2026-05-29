@@ -1,0 +1,26 @@
+﻿Слова у всіх файлах:
+apple
+banana
+orange
+dog
+Кількість: 4
+
+
+Слова хоча б в одному файлі:
+apple
+banana
+orange
+lemon
+cat
+dog
+grape
+tiger
+wolf
+fox
+Кількість: 10
+
+
+Слова лише у першому файлі:
+lemon
+cat
+Кількість: 2
